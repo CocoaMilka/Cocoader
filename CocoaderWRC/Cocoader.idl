@@ -6,8 +6,7 @@ namespace CocoaderWRC
 
 		// Methods to expose
 		void InitializeCocoader(String url);
-		Windows.Foundation.IAsyncAction StartStreamingAsync();
-		Windows.Foundation.IAsyncOperation<Windows.Foundation.Collections.IVector<Windows.Graphics.Imaging.SoftwareBitmap>> GetNextFrameAsync();
-		void Decode();
+		void StartStreaming();
+		void StopStreaming();
 	};
 }

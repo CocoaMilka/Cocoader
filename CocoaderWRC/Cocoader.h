@@ -4,13 +4,16 @@
 #include <winrt/Windows.Foundation.h>
 
 using namespace winrt;
-using namespace Windows::Foundation;
+using namespace winrt::Windows::Foundation;
 
 namespace winrt::CocoaderWRC::implementation
 {
     struct Cocoader : CocoaderT<Cocoader>
     {
         Cocoader() = default;
+
+    public:
+        MediaPlayer player;
 
         /// <summary>
         /// Initializes Cocoader for media encoding/decoding.
@@ -21,12 +24,22 @@ namespace winrt::CocoaderWRC::implementation
         /// <summary>
         /// Start receiving stream and feed into Media Foundation pipeline.
         /// </summary>
-        /// <returns></returns>
-        IAsyncAction StartStreamingAsync();
+        void StartStreaming();
 
-        IAsyncOperation<Collections::IVector<Windows::Graphics::Imaging::SoftwareBitmap>> GetNextFrameAsync();
+        /// <summary>
+        /// Stop stream
+        /// </summary>
+        void StopStreaming();
 
-        void Decode();
+        /// <summary>
+        /// Event for when frames are available from member property MediaPlayer player. Will take frame from player and convert to SoftwareBitmap and pass to ProcessFrame()
+        /// </summary>
+        void OnVideoFrameAvailable();
+
+        /// <summary>
+        /// Converts frames from SoftwareBitmap into Rgba8 for use in Unity
+        /// </summary>
+        void ProcessFrame(SoftwareBitmap const& bitmap);
     };
 }
 
