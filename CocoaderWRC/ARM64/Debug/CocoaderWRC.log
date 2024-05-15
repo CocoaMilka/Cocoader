@@ -1,0 +1,82 @@
+﻿  Cocoader.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(471,14): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(486,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(623,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(757,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(894,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(6400,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(6876,14): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(6907,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(7149,24): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(7151,26): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ocidl.h(7164,55): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\dxgi.h(323,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3dcommon.h(416,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3dcommon.h(523,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11.h(1396,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11.h(13689,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11.h(14112,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11sdklayers.h(157,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11sdklayers.h(485,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11sdklayers.h(592,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11sdklayers.h(676,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11sdklayers.h(2191,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d10.h(6963,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11_1.h(5428,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\d3d11_4.h(1952,5): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\winrt\inspectable.h(106,5): error C2371: 'IInspectable': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\winrt\inspectable.h(52,32): message : see declaration of 'IInspectable'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\Windows.Graphics.DirectX.Direct3D11.interop.h(30,1): error C2872: 'IUnknown': ambiguous symbol
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h(117,9): message : could be 'IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Generated Files\winrt\base.h(2032,12): message : or       'winrt::Windows::Foundation::IUnknown'
+C:\Users\jrgbk4\Documents\Cocoader\CocoaderWRC\Cocoader.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
